@@ -19,7 +19,7 @@ const characterImages = {
 const obstacleImages = [
     "./images/O1.png", "./images/O2.png", "./images/O3.png", "./images/O4.png", "./images/O5.png",
     "./images/O6.png", "./images/O7.png", "./images/O8.png", "./images/O9.png", "./images/O10.png",
-    "./images/O1.png"
+    "./images/O11.png"
 ];
 
 // Function to update the character's image
